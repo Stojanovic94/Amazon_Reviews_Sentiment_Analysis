@@ -2,6 +2,9 @@
 
 This project analyzes Amazon product reviews using Natural Language Processing (NLP), focusing on sentiment analysis with the VADER tool. It reveals how customer opinions in text relate to their given star ratings.
 
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
 ---
 
 ## 📂 Dataset
